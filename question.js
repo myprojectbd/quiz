@@ -1,59 +1,59 @@
 let questions = [
     {
         numb:1,
-        question:'What Does HTML Stand For?',
-        answer:'Hyper Text Markup Language',
+        question:'আর রহিম শব্দের অর্থ কি ?',
+        answer:'পরম দয়ালু',
         options:[
-            "Hyper Text Preprocessor",
-            "Hyper Text Markup Language",
-            "Hyper Text Multiple Language",
-            "Hyper Tool Multi Language"
+            "পরম দয়াময়",
+            "রক্ষণ ব্যবস্থাকারী",
+            "সর্বাধিকারী",
+            "পরম দয়ালু"
         ]
     },
     {
         numb: 2,
-        question: "What Does CSS Stand For?",
-        answer: "Cascading Style Sheet",
+        question: "ইসলামের বুনিয়াদ (ভিত্তি) কয়টি?",
+        answer: "৫ টি",
         options: [
-          "Common Style Sheet",
-          "Colorful Style Sheet",
-          "Computer Style Sheet",
-          "Cascading Style Sheet"
+          "৪ টি",
+          "৫ টি",
+          "২ টি",
+          "১ টি"
         ]
       },
       {
         numb: 3,
-        question: "What Does PHP Stand For?",
-        answer: "Hypertext Preprocessor",
+        question: "মহানবী (সাঃ) পবিত্র মক্কায় তার জীবনের কত বছর অতিবাহিত করেছেন?",
+        answer: "৭ বছর",
         options: [
-          "Hypertext Preprocessor",
-          "Hypertext Programming",
-          "Hypertext Preprogramming",
-          "Hometext Preprocessor"
+          "৭ বছর",
+          "৩ বছর",
+          "১০ বছর",
+          "৪০ বছর "
         ]
       },
     
       {
         numb: 4,
-        question: "What does SQL stand for?",
-        answer: "Structured Query Language",
+        question: "নামাজ কত ওয়াক্ত?",
+        answer: "৫",
         options: [
-          "Stylish Question Language",
-          "Stylesheet Query Language",
-          "Statement Question Language",
-          "Structured Query Language"
+          "৬",
+          "৩",
+          "৫",
+          "২"
         ]
       },
 
       {
         numb: 5,
-        question: "What does XML stand for?",
-        answer: "Examine Multiple Language",
+        question: "পবিত্র কুরআনে কতজন নবীর নাম উল্লেখ আছে ?",
+        answer: "২৫ জন",
         options: [
-          "Extensible Markup Language",
-          "Executable Multiple Language",
-          "ExTra Multi-Program Language",
-          "Examine Multiple Language"
+          "১০ জন",
+          "৫০ জন",
+          "১০০ জন",
+          "২৫ জন"
         ]
       },
       
