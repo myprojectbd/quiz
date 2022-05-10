@@ -34,7 +34,7 @@ body {
 }
 .MyBtn{
     margin-left: 195px !important;
-    margin-top: 110px;
+    margin-top: 150px;
     width: 60%;
     
 }
@@ -87,7 +87,7 @@ body {
 ol li{
   font-size: 17px;
   font-weight: 500;
-  padding: 10px 25px;
+  padding: 2px 15px;
 }
 .RulesBox .Buttons button{
   font-size: 20px;
@@ -98,7 +98,7 @@ ol li{
   color: #fff;
   padding: 6px 15px;
   cursor: pointer;
-  margin-top: 210px;
+  margin-top: 1px;
   transition: 0.2s ease-in-out;
 }
 .Buttons button:hover{
@@ -234,7 +234,7 @@ footer button{
   cursor: pointer;
   color: #f1f1f1;
   transition: all 0.3s ease;
-  margin-top: 240px;
+  margin-top: 190px;
   display: none;
 }
 
