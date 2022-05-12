@@ -17,6 +17,7 @@ body {
     overflow: hidden;
     transform: translate(-50%, -50%);
     border-radius: 48px;
+    height : auto;
 }
 
 
@@ -109,7 +110,7 @@ ol li{
 }
 .continueButton{
   border-radius: 57px 0px 46px 0px;
-  margin-left: 90px;
+  margin-left: 40px;
 }
 
 .Question.activeQuiz{
